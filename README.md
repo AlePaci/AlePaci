@@ -1,7 +1,7 @@
 <p align="center">
 <h1 align="center">Alessandro Paci</h1>
   <p align="center">
-  🎓 <strong>Studying</strong> to become <strong>Full Stack Developer</strong>  @ TNV Academy 
+  🎓 <strong>Studying</strong> to become <strong>Full Stack Developer</strong>  @ TNV Academy<br>previously🌄<strong>Hiking guide</strong> in Sardinia<br>Speak fluently: Italian🇮🇹 & English🇬🇧
   </p>
 
 </p>
